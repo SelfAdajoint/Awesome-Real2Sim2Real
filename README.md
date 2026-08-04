@@ -3,7 +3,7 @@
 # 🎥 Awesome-Real2Sim2Real
 
 <p align="center">
-  <img src="banner.png" alt="Awesome Real2Sim2Real" width="100%">
+  <img src="awe_banner.png" alt="Awesome Real2Sim2Real" width="100%">
 </p>
 </div>
 
